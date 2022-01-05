@@ -4,7 +4,7 @@
 <!--
 **shima-mdi/shima-mdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 [[params.social]]
     icon = "linkedin"
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Image compression
 - 📫 How to reach me: shima.70mdi@gmail.com
--->
+

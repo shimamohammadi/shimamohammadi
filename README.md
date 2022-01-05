@@ -1,5 +1,5 @@
 ### Hello world!, I'm Shima👋
-### Welcome my Git Hub profile 
+### Welcome to my Git Hub profile 
 
 
 - 🔭 I’m currently a Ph.D. student in the feild of Image quality

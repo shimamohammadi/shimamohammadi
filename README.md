@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hello world!, I'm Shima👋
+### Check out my Git Hub profile 
 
 <!--
 **shima-mdi/shima-mdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/shima-mohammadi-007351134/"
+
+ [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "https://www.facebook.com/shima.mohammadi.77/"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/Shima_mdi"
+
+- 🔭 I’m currently working on Image compression
+- 📫 How to reach me: shima.70mdi@gmail.com
 -->

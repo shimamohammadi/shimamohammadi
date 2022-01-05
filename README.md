@@ -1,9 +1,6 @@
 ### Hello world!, I'm Shima👋
 ### Check out my Git Hub profile 
 
-<!--
-**shima-mdi/shima-mdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 [[params.social]]

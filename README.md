@@ -8,5 +8,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shima_mdi)](https://twitter.com/shima_mdi)
 
 
-- 🔭 I’m currently a Ph.D. student in the feild of Image quality
+- 🔭 I’m currently a Ph.D. student in the feild of deep learning based image compression
 - 📫 How to reach me: shima.70mdi@gmail.com

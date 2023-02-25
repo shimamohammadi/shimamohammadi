@@ -5,7 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shima.70mdi@gmail.com)
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@shima.70mdi) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/shima_mdi)](https://twitter.com/shima_mdi)
-[![Google Scholor Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&l&link=https://scholar.google.com/citations?user=sjpFHQQAAAAJ&hl=en)](https://scholar.google.com/citations?user=sjpFHQQAAAAJ&hl=en)
+[![Google Scholor Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?logo=google-scholar&link=https://scholar.google.com/citations?user=sjpFHQQAAAAJ&hl=en)](https://scholar.google.com/citations?user=sjpFHQQAAAAJ&hl=en)
+[![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Shima-Mohammadi-5)](https://www.researchgate.net/profile/Shima-Mohammadi-5)
 
 
 

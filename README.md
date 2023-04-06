@@ -11,5 +11,5 @@
 
 
 
-- 🔭 I’m currently a Ph.D. student in the field of optimization of deep learning-based image compression.
+- 🔭 I’m currently a Ph.D. student in the field of image quality assessment.
 - 📫 How to reach me: shima.70mdi@gmail.com

@@ -14,6 +14,7 @@
 - 🔭 I’m currently a Ph.D. student in the field of image coding and quality assessment.
 
 ### ⚙️ Technical Skills
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=c&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=c#&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=c++&color=353535)![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=matlab&color=353535)
+Languagues: ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 
+Library: ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimamohammadi&layout=compact)

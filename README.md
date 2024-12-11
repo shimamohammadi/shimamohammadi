@@ -26,4 +26,3 @@ Front-End Development: HTML, CSS, JavaScript
 
 Back-End Development: Node.js, ASP.NET
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimamohammadi&layout=compact)

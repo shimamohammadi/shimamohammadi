@@ -13,3 +13,7 @@
 
 - 🔭 I’m currently a Ph.D. student in the field of image coding and quality assessment.
 
+### ⚙️ Technical Skills
+
+
+[![Shima's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimamohammadi)](https://github.com/shimamohammadi/github-readme-stats)

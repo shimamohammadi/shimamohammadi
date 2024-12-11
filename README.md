@@ -16,4 +16,4 @@
 ### ⚙️ Technical Skills
 
 
-[![Shima's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimamohammadi)](https://github.com/shimamohammadi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimamohammadi&layout=compact)

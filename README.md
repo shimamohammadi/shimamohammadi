@@ -1,5 +1,19 @@
 <h1> Shima Mohammadi </h1>
 
+<h1 align="center">
+Hi!
+	<a href="https://github.com/sadafrf" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+
+<br/>
+<p align="center">
+	<a href="https://github.com/shimamohammadi">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer%20Vision%20Enthusiast;Passionate%20about%20creativity&center=true&width=380&height=45">
+	</a>
+</p>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshimamohammadi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shima-mohammadi-007351134/)
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@shima.70mdi) 

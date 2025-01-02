@@ -24,7 +24,7 @@ Hi!
 
 
 
-- 🔭 I’m currently a Ph.D. student in the field of image coding and quality assessment.
+
 
 ### ⚙️ Technical Skills
  ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) 

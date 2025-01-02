@@ -1,4 +1,4 @@
-<h1> Hi Shima Mohammadi 
+<h1> Hi! I'm Shima Mohammadi 
 
 <a href="https://github.com/sadafrf" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">

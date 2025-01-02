@@ -1,9 +1,9 @@
-<h1> Hi! I'm Shima Mohammadi 
+<h1> Hi! I'm  
 
 <a href="https://github.com/sadafrf" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
-
+Shima Mohammadi
 </h1>
 
 
